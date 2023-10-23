@@ -1,0 +1,15 @@
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.csproj.AssemblyReference.cache
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.AssemblyInfoInputs.cache
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.AssemblyInfo.cs
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.csproj.CoreCompileInputs.cache
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\bin\Debug\net5.0\Talabat_Service.deps.json
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\bin\Debug\net5.0\Talabat_Service.dll
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\bin\Debug\net5.0\Talabat_Service.pdb
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\bin\Debug\net5.0\Talabat.Core.dll
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\bin\Debug\net5.0\Talabat.Core.pdb
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.csproj.CopyComplete
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.dll
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\refint\Talabat_Service.dll
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\Talabat_Service.pdb
+C:\Users\soad elshekh\source\repos\Talabat.Api\Talabat_Service\obj\Debug\net5.0\ref\Talabat_Service.dll
